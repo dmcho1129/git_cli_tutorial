@@ -1,10 +1,4 @@
-# Hello Git
-## Welcome to my World
+# Git
+## Wow
 
- - wonderful
- - haha
- - test
-
- - Wow
- - Good
 
